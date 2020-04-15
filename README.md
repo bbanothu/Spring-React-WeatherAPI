@@ -1,3 +1,5 @@
+Simple Java Spring/React web application. 
+
 Java Spring Backend 
   - one get request - retrives weather data and manipulates it.
  
